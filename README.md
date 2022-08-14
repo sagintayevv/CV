@@ -1,2 +1,2 @@
 
-[https://sagintayevv.github.io/rsschool-cv/]
+https://sagintayevv.github.io/rsschool-cv/
