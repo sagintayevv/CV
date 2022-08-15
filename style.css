@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@200;300;500;600;700&display=swap');
+
+* {
+    margin: 0 0;
+    font-family: 'Bai Jamjuree';
+
+}
+
+.header .container {
+    width: 768px;
+    margin: auto;
+    margin-top: 50px;
+    background: #17281E;
+    color: white;
+    padding: 50px 30px;
+    border-left: 2px solid #1F1F1F;
+    border-right: 2px solid #1F1F1F;
+    border-top: 2px solid #1F1F1F;
+}
+
+.headName {
+    text-align: center;
+}
+
+.headName h1 {
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+.headName h3 {
+    font-size: 14px;
+    font-weight: 300;
+    padding-top: 15px;
+}
+
+
+.description .container {
+    width: 768px;
+    margin: auto;
+    background: #FAF7F4;
+    padding: 100px 30px;
+    border-left: 2px solid #1F1F1F;
+    border-right: 2px solid #1F1F1F;
+    border-bottom: 2px solid #1F1F1F;
+}
+
+.description .content {
+    display: flex;
+    justify-content: space-around;
+}
+
+.informations {
+    width: 300px;
+}
+
+.informationTitle {
+    font-size: 20px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #000000;
+    margin-bottom: 13px;
+}
+
+.item .title {
+    font-size: 16px;
+    margin-bottom: 13px;
+}
+
+.text {
+    font-weight: 100;
+    font-size: 14px;
+}
+
+.item {
+    margin-top: 30px;
+}
+
+.skills .title {
+    font-size: 20px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #000000;
+    margin-bottom: 13px;
+}
+
+.skills ul {
+    margin-top: 30px;
+    font-weight: 100;
+    font-size: 14px;
+}
+
+.contacts .title {
+    margin-top: 30px;
+    font-size: 20px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #000000;
+    margin-bottom: 13px;
+}
+
+.contacts ul {
+    margin-top: 30px;
+    font-weight: 100;
+    font-size: 14px;
+}
